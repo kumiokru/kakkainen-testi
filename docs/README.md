@@ -1,5 +1,7 @@
-# README
->Fuck your confluence, it sucks donkeyballs
+# BREAKING NEWS
 
+AMD Zen3 ei kiinnosta Intel miestä
 
-Well, it's fast, is composed mainly on github's flavor of markdown and it doesn't suck donkeyballs like most of Atlassian shit. Also, it seems to support out of the box anchors on page so you can skip there.
+>EI KIINNOSTA T. INTEL-MIES
+
+:sad:
