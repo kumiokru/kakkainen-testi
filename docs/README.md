@@ -1,10 +1,3 @@
-# BREAKING NEWS
+# Konffivika
 
-AMD Zen3 ei kiinnosta Intel miestä
-
->EI KIINNOSTA T. INTEL-MIES
-
-:sob:
-
-
-![Niin että mitä oli?](img/paskaa.png)
+![hihi](img/nopeudet_sinnepain.png)
