@@ -11,4 +11,7 @@
 > IPv6 2001:40e8:0000:0017:0089:0236:0117:0070/64, gw 2001:40e8:0:17::1
 > DNS 2001:40e8:0:10::11 2001:40e8:10:12:89:236:110:2
 
-Ylläolevat osoitteet ei siis toimi, dhcp toimii. 
+Ylläolevat osoitteet ei siis toimi, dhcp toimii.
+
+ps. yhteydenottopyyntö lomakkeenne ei toimi vaan antaa virheilmoituksen.
+![infernal server error](img/infernal_server_error.png)
