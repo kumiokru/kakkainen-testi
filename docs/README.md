@@ -1,5 +1,3 @@
 # Breaking news 
 
-> What? No news?
-
-No breaking news at the moment. Move along.
+> 11:14 <@antsy> piho onkin väärässä lähes poikkeuksetta
