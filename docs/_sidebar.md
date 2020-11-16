@@ -1,2 +1,2 @@
-[home](/)
-[spurdo](spurdo.md)
+* [home](/)
+* [spurdo](spurdo.md)
