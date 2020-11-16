@@ -1,0 +1,2 @@
+[home](/)
+[spurdo](spurdo.md)
