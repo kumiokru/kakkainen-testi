@@ -1,2 +1,3 @@
-* [home](/)
-* [proxmox](proxmox.md)
+* [Home](/)
+* [Preface](intro.md)
+* [Terraform](terraformt.md)
