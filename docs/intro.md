@@ -10,7 +10,7 @@ Terraform has support for Proxmox and the former can be interacted with Terrafor
 You could also do this on your local computer (e.g. virtualize proxmox or similar directly on your workstation using virtual box or something like it)... 
 
 ## Virtualization prerequisites
-You have to have virtualization enabled. Easiest way to check this on is to check CPU flags with following smallish bash script that checks if you have virtualization enabled. Works at least with AMD cpus and requires bash version >4 that has support for associative arrays:
+You have to have virtualization enabled. Easiest way to check this on is to check CPU flags.
 
 ``` 
 # this should return something if CPU has support for virtualization
